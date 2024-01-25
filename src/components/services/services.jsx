@@ -22,7 +22,8 @@ const services = () => {
             <li>
               <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor sit amet consectetur.</p>  
-            </li><li>
+            </li>
+            <li>
               <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor sit amet consectetur.</p>  
             </li><li>
@@ -34,6 +35,34 @@ const services = () => {
         <article className='service'>
           <div className="service__head">
             <h3>Android App</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Lorem ipsum dolor sit amet consectetur.</p>  
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Lorem ipsum dolor sit amet consectetur.</p>  
+            </li><li>
+              <BiCheck className='service__list-icon'/>
+              <p>Lorem ipsum dolor sit amet consectetur.</p>  
+            </li><li>
+              <BiCheck className='service__list-icon'/>
+              <p>Lorem ipsum dolor sit amet consectetur.</p>  
+            </li><li>
+              <BiCheck className='service__list-icon'/>
+              <p>Lorem ipsum dolor sit amet consectetur.</p>  
+            </li><li>
+              <BiCheck className='service__list-icon'/>
+              <p>Lorem ipsum dolor sit amet consectetur.</p>  
+            </li>
+          </ul>
+        </article>
+        <article className='service'>
+          <div className="service__head">
+            <h3>Software Development</h3>
           </div>
 
           <ul className='service__list'>
